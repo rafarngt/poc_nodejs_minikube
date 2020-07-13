@@ -1,0 +1,22 @@
+{
+  "name": "poc_nodejs_minikube",
+  "version": "1.0.0",
+  "description": "nodeJS with Minikube ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafarngt/poc_nodejs_minikube.git"
+  },
+  "author": "Rafael Noriega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafarngt/poc_nodejs_minikube/issues"
+  },
+  "homepage": "https://github.com/rafarngt/poc_nodejs_minikube#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
